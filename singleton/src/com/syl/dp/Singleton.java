@@ -13,7 +13,7 @@ public class Singleton {
 	
 	// private 构造函数
 	private Singleton() {
-		System.out.println("Singleton Constructor");
+		System.out.println("call Singleton Constructor");
 	}
 	
 	// 全局访问接口
